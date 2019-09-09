@@ -1,0 +1,5 @@
+import(stats)
+exportPattern("^[[:alpha:]]+")
+
+export(dwlm)
+
